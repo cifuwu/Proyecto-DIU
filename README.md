@@ -4,8 +4,7 @@
 
 #### El proyecto se encuentra desplegado en el siguiente link [https://proyecto-diu-six.vercel.app/]()
 
-#### El link del video es el siguiente link  [https://proyecto-diu-six.vercel.app/](https://www.youtube.com/watch?v=-gAyUoBS_Ps)]()
-
+#### El link del video es el siguiente link  [https://www.youtube.com/watch?v=-gAyUoBS_Ps]()
 
 ### Importante saber que la app está diseñada para funcionar con la resolución de un teléfono (iphone xr como referencia)
 ### Primero deben correr el frontend. Para ello, deben tener instalado [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable). 
