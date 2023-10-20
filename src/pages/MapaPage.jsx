@@ -7,19 +7,19 @@ import Botones from '../../components/Botones'
 export default function MapaPage() {
   return (
     <div>
-			<div className='fixed top-72 left-64 w-20 h-20'>
+			<div className='fixed z-10 top-72 left-64 w-20 h-20'>
 				<YouHere />
 			</div>
 
-			<div className='fixed top-40 left-60 w-20 h-20'>
+			<div className='fixed z-10 top-40 left-60 w-20 h-20'>
 				<ReciclajeHere />
 			</div>
 
-			<div className='fixed top-44 left-28 w-20 h-20'>
+			<div className='fixed z-10 top-44 left-28 w-20 h-20'>
 				<ReciclajeHere />
 			</div>
 
-			<div className='fixed top-64 left-44 w-20 h-20'>
+			<div className='fixed z-10 top-64 left-44 w-20 h-20'>
 				<ReciclajeHere />
 			</div>
 			
