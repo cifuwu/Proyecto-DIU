@@ -8,7 +8,7 @@ Sebastian Cifuentes
 
 #### El proyecto se encuentra desplegado en el siguiente link [https://proyecto-diu-six.vercel.app/](https://proyecto-diu-six.vercel.app/)
 
-#### El link del video es el siguiente link  [https://www.youtube.com/watch?v=-gAyUoBS_Ps](https://www.youtube.com/watch?v=-gAyUoBS_Ps)
+#### El link del video es el siguiente link  [https://www.youtube.com/watch?v=L7KSZdrWyho](https://www.youtube.com/watch?v=L7KSZdrWyho)
 
 ---
 
