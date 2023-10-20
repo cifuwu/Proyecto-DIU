@@ -1,4 +1,4 @@
-# Tarea de diu
+# Tarea de diu - App de reciclaje inteligente
 integrantes:
 Nicolas Barrera,
 Claudio Inal,
