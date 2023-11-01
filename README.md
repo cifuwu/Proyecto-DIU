@@ -6,6 +6,9 @@ Sebastian Cifuentes
 
 ---
 
+
+### importante! este repo tiene commits de solo un integrante, dado que realizamos toda app en conjunto y luego subimos todo junto en un sólo commit, por error. Pero todos trabajaron.
+
 #### El proyecto se encuentra desplegado en el siguiente link [https://proyecto-diu-six.vercel.app/](https://proyecto-diu-six.vercel.app/)
 
 #### El link del video es el siguiente link  [https://www.youtube.com/watch?v=L7KSZdrWyho](https://www.youtube.com/watch?v=L7KSZdrWyho)
